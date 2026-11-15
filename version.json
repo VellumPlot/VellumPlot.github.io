@@ -1,12 +1,13 @@
 {
-  "version": "0.1.8",
-  "date": "12 Nov 2026",
-  "installer": "https://github.com/PatinaPlot/PatinaPlot.github.io/releases/download/v0.1.8/PatinaPlot-Setup.exe",
-  "notes": "https://github.com/PatinaPlot/PatinaPlot.github.io/releases/tag/v0.1.8",
+  "version": "0.2.0",
+  "date": "15 Nov 2026",
+  "installer": "https://github.com/VellumPlot/VellumPlot.github.io/releases/download/v0.2.0/PatinaPlot-Setup.exe",
+  "notes": "https://github.com/VellumPlot/VellumPlot.github.io/releases/tag/v0.2.0",
   "changes": [
-    "Pictures on graphs: Insert > Picture places a PNG or JPEG, and a double-click crops it in place with black handles; Reset crop brings the whole picture back.",
-    "Smoother zoom on graphs: no stutter while zooming, sharp again as soon as the zoom rests.",
-    "The blue line above the active window is gone; its highlighted tab already shows it.",
-    "Fixed: Patina could not be closed when the project changed while the Start page was showing (for example over MCP); closing now asks whether to save."
+    "Patina Plot is now Vellum Plot: a new name, a teal icon and a new home at vellumplot.github.io. Projects are .vlmp files; .ptn projects still open, and your settings and templates come along.",
+    "The Assistant (Ctrl+L): ask in plain words and it plots, fits and styles graphs, through Claude Code or Codex on your own plan, or your own API key for Anthropic, OpenAI, Google Gemini or a compatible service.",
+    "Fonts for axes and colour bars: choose the font of tick labels and titles, not only its size.",
+    "Donate: a button at the top right of the ribbon opens the author's Ko-fi page; its x hides it for good.",
+    "The MCP server is now vellum-plot-mcp.exe: AI clients set up with patina-mcp.exe need the new path, shown on the Start page."
   ]
 }
