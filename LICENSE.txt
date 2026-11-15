@@ -1,0 +1,99 @@
+VELLUM PLOT FREEWARE LICENSE AGREEMENT
+
+Copyright (c) 2026 Kosit Jariyatatsakorn. All rights reserved.
+
+This agreement covers the Vellum Plot software (vellum-plot.exe,
+vellum-plot-mcp.exe), its documentation, sample projects and any updates
+(together, "the software").
+By installing or using the software you accept these terms. If you do not
+accept them, do not install or use the software.
+
+1. LICENSE
+   You may download, install and use the software free of charge, on any
+   number of computers, for personal, academic and commercial work.
+
+2. YOUR GRAPHS AND DATA
+   Graphs, figures, projects and data you create with the software belong
+   to you.
+   You may use, publish and sell them without any obligation to the
+   copyright holder.
+
+3. SHARING
+   You may give copies of the original, unmodified software to others,
+   provided it is free of charge and this agreement and the file
+   THIRD-PARTY-NOTICES.txt are included.
+
+4. RESTRICTIONS
+   You may not:
+   (a) sell, rent, lease or sublicense the software, or charge for it;
+   (b) modify, adapt or translate the software or make derivative works
+       from it;
+   (c) reverse engineer, decompile or disassemble the software, except
+       where the law expressly allows it despite this restriction;
+   (d) remove or change any copyright notice, licence text or disclaimer
+       in the software.
+
+5. OWNERSHIP
+   The software is licensed, not sold. The copyright holder keeps all
+   rights in the software, its source code, design and documentation that
+   this agreement does not expressly grant to you.
+
+6. THIRD-PARTY COMPONENTS
+   The software includes open-source components. Each is used under its
+   own licence, listed with its copyright notice in THIRD-PARTY-NOTICES.txt.
+   Nothing in this agreement limits your rights under those licences.
+
+7. THE ASSISTANT AND OTHER SERVICES
+   (a) The Assistant is optional. It works only with a service you choose
+       and set up yourself: an AI agent you have installed and signed in to
+       (such as Claude Code or Codex), or a model provider for which you
+       have entered your own API key (such as Anthropic, OpenAI, Google or
+       OpenRouter), including a server you run yourself.
+   (b) When you send a message, the software sends your message, a picture
+       of the graph the Assistant works on, any pictures you attach and the
+       results of the graphing and fitting tools, which may include your
+       data, to that service, and nowhere else. The service's own terms,
+       privacy policy and charges apply to that use; you are responsible
+       for them and for what you choose to send.
+   (c) API keys are stored in the Windows Credential Manager (on macOS, the
+       login keychain) of your user account and are sent only to the
+       provider they belong to (or the base URL you entered). The software
+       keeps no copy elsewhere.
+   (d) The copyright holder does not operate, control or endorse these
+       services and is not responsible for their availability, charges or
+       answers. Check what the Assistant plots, fits or changes before you
+       rely on it; every answer can be undone.
+   (e) To look for updates, the software reads a small file from the
+       software's website each time it starts. You can turn this off in
+       the Check for updates window (Check for updates when Vellum Plot
+       starts).
+   (f) The Donate button only opens the author's Ko-fi page in your web
+       browser. Donations are voluntary, are made on Ko-fi under its own
+       terms, and buy no extra rights, features or support.
+
+8. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, ACCURACY AND NON-INFRINGEMENT. You are
+   responsible for checking that graphs, fits and figures made with
+   the software are correct before you rely on them or publish them.
+
+9. LIMITATION OF LIABILITY
+   TO THE EXTENT THE LAW ALLOWS, THE COPYRIGHT HOLDER IS NOT LIABLE FOR ANY
+   DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, INCLUDING
+   LOSS OF DATA, PROFITS OR WORK, ARISING FROM THE USE OF OR INABILITY TO
+   USE THE SOFTWARE OR OF ANY SERVICE USED THROUGH IT, EVEN IF ADVISED OF
+   THE POSSIBILITY OF SUCH DAMAGES.
+
+10. TRADEMARKS
+   Microsoft, Windows, Word, PowerPoint and Excel are trademarks of
+   Microsoft Corporation. Claude and Claude Code are trademarks of
+   Anthropic, PBC. OpenAI, ChatGPT and Codex are trademarks of OpenAI.
+   Google and Gemini are trademarks of Google LLC. Ko-fi is a trademark of
+   Ko-fi Labs Limited. OpenRouter, Ollama and LM Studio are trademarks of
+   their owners. Other product names are the trademarks of their owners.
+   The software is not affiliated with or endorsed by any of them.
+
+11. TERMINATION
+   This licence ends automatically if you break its terms. You must then
+   stop using the software and delete all copies.
