@@ -1,13 +1,13 @@
 {
-  "version": "0.3.1",
+  "version": "0.3.2",
   "date": "16 Nov 2026",
-  "installer": "https://github.com/VellumPlot/VellumPlot.github.io/releases/download/v0.3.1/PatinaPlot-Setup.exe",
-  "notes": "https://github.com/VellumPlot/VellumPlot.github.io/releases/tag/v0.3.1",
+  "installer": "https://github.com/VellumPlot/VellumPlot.github.io/releases/download/v0.3.2/PatinaPlot-Setup.exe",
+  "notes": "https://github.com/VellumPlot/VellumPlot.github.io/releases/tag/v0.3.2",
   "changes": [
-    "The Assistant finds Claude Code that came with the Claude app, whatever folder it uses, or from its open Code session.",
-    "More places are searched: WinGet, Scoop, Bun, pnpm, Volta, nvm, and the Claude Code in the VS Code, Cursor and Windsurf extensions.",
-    "Check again finds a Claude Code installed after Vellum Plot started, says it looked, and when nothing is found says where it looked.",
-    "Program may be the folder the program is in.",
+    "Sign in from the chat: when Claude Code is not signed in, a Sign in button opens its sign-in page instead of \"Please run /login\".",
+    "Install Claude Code: when it is not found, runs Anthropic's installer and then its sign-in. Copy details copies where Vellum Plot looked, for a report.",
+    "Text size: Aa beside Change makes the Assistant's text larger or smaller, and is remembered.",
+    "Buttons line up at any text size, and Sign in and Done respond to hover, press and the keyboard.",
     "From 0.3.0: fits stay connected to their data, with Update, Keep updated and Change parameters.",
     "Coming from Patina Plot 0.1.x: it is now Vellum Plot (0.2.0), with the Assistant; your projects, settings and templates come along."
   ]
