@@ -1,13 +1,15 @@
 {
-  "version": "0.2.0",
-  "date": "15 Nov 2026",
-  "installer": "https://github.com/VellumPlot/VellumPlot.github.io/releases/download/v0.2.0/PatinaPlot-Setup.exe",
-  "notes": "https://github.com/VellumPlot/VellumPlot.github.io/releases/tag/v0.2.0",
+  "version": "0.3.0",
+  "date": "16 Nov 2026",
+  "installer": "https://github.com/VellumPlot/VellumPlot.github.io/releases/download/v0.3.0/PatinaPlot-Setup.exe",
+  "notes": "https://github.com/VellumPlot/VellumPlot.github.io/releases/tag/v0.3.0",
   "changes": [
-    "Patina Plot is now Vellum Plot: a new name, a teal icon and a new home at vellumplot.github.io. Projects are .vlmp files; .ptn projects still open, and your settings and templates come along.",
-    "The Assistant (Ctrl+L): ask in plain words and it plots, fits and styles graphs, through Claude Code or Codex on your own plan, or your own API key for Anthropic, OpenAI, Google Gemini or a compatible service.",
-    "Fonts for axes and colour bars: choose the font of tick labels and titles, not only its size.",
-    "Donate: a button at the top right of the ribbon opens the author's Ko-fi page; its x hides it for good.",
-    "The MCP server is now vellum-plot-mcp.exe: AI clients set up with patina-mcp.exe need the new path, shown on the Start page."
+    "Fits stay connected to their data: a chip shows Up to date, Out of date, Auto or Stalled; Update fits again into the same columns, Keep updated does it by itself, and Change parameters reopens the Fit window on the fit.",
+    "A fit's columns are protected: typing over them offers Detach, and deleting one asks whether the whole fit goes.",
+    "The Fit window is a window of its own: move it beside the graph or onto a second screen.",
+    "Shift+click in Objects selects every plot between two rows.",
+    "A fit that gets stuck now says Stalled instead of Converged, and weighted R² uses the weighted mean.",
+    "The Assistant finds Claude Code and Codex where their apps install them, with a settings card for the chosen agent.",
+    "Coming from Patina Plot 0.1.x: it is now Vellum Plot (0.2.0), with the Assistant; your projects, settings and templates come along."
   ]
 }
