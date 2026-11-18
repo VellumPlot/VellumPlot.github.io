@@ -1,12 +1,12 @@
 {
-  "version": "0.3.3",
-  "date": "17 Nov 2026",
-  "installer": "https://github.com/VellumPlot/VellumPlot.github.io/releases/download/v0.3.3/PatinaPlot-Setup.exe",
-  "notes": "https://github.com/VellumPlot/VellumPlot.github.io/releases/tag/v0.3.3",
+  "version": "0.3.4",
+  "date": "18 Nov 2026",
+  "installer": "https://github.com/VellumPlot/VellumPlot.github.io/releases/download/v0.3.4/PatinaPlot-Setup.exe",
+  "notes": "https://github.com/VellumPlot/VellumPlot.github.io/releases/tag/v0.3.4",
   "changes": [
-    "The Assistant's message box stays at the foot of the chat: a long message scrolls inside it instead of pushing the box off the window.",
-    "Thai in the message box: the caret sits right after vowels such as ำ and no longer stops inside a letter.",
-    "From 0.3.2: Sign in from the chat, Install Claude Code, Copy details, and Aa for the Assistant's text size.",
-    "Coming from Patina Plot 0.1.x: it is now Vellum Plot (0.2.0), with the Assistant; your projects, settings and templates come along."
+    "Chats kept for each project: opening a project shows its last chat, New chat keeps the one you leave, the clock lists earlier chats, and deleting one asks first.",
+    "Pictures open large: click a picture in the Assistant's chat to see it at full size.",
+    "The gear: the Assistant's Change button is now a gear, to save room.",
+    "Fix: Projects opened or saved by an AI client: the window follows them, and Save writes to that file."
   ]
 }
